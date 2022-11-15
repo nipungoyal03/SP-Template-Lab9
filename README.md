@@ -24,4 +24,4 @@
 - <strong> Do not </strong> make extra folders apart from the above folders.
 - Save plots as <strong> .png/.jpg/.jpeg </strong> format only.
 - Commit the work <strong> after each question </strong>.
-- Final deadline is <strong> 11:55 pm 09 November 2022 </strong>.
+- Final deadline is <strong> 11:55 pm 17 November 2022 </strong>.
